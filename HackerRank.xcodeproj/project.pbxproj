@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		A19963E322118E86003CDFE1 /* HackerRank */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HackerRank; sourceTree = BUILT_PRODUCTS_DIR; };
 		A19963E622118E86003CDFE1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A19963EE221190E2003CDFE1 /* OUTPUT_PATH */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OUTPUT_PATH; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				A19963E622118E86003CDFE1 /* main.swift */,
+				A19963EE221190E2003CDFE1 /* OUTPUT_PATH */,
 			);
 			path = HackerRank;
 			sourceTree = "<group>";
